@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Liam McBride
-- 👀 I’m an undergraduate bioinformatician interested in data analysis, machine learning, biostatistics, and more!
+- 👀 I’m a master's bioinformatics student interested in immunogenetics, software dev, cancer genomics, and more!
 - 📫 How to reach me: email -> lmcbride053@gmail.com
+- LinkedIn: www.linkedin.com/in/liam-mcbride-2b413019b
 
 <!---
 songofnormalpeople/songofnormalpeople is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
